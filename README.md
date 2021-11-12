@@ -1,7 +1,7 @@
 # 🚀VR-space
 
 ### It's build on Android & Windows
-### This game made in Unity Engine 
+### This game was made with Unity Engine 
 ### VR function is only works on Google VR SDK (Google Cardboard) 
 
 ### 🖥 Game works in Desktop 
