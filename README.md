@@ -2,7 +2,7 @@
 
 ### It's build on Android & Windows
 ### This game was made with Unity Engine 
-### VR function is only works on Google VR SDK (Google Cardboard) 
+### VR function only works on Google VR SDK (Google Cardboard) 
 
 ### 🖥 Game works in Desktop 
 
